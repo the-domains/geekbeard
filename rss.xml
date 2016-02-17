@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[geekbeard]]></title>
+        <description><![CDATA[geekbeard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 12:21:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My new corner of the web]]></title>
+            <description><![CDATA[<article><h1>My new corner of the web</h1><p>After several years of posting my miscellaneous musings to Tumblr, I've switched to The Grid, an AI-based web-builder.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc9caf12-8fb9-4ee1-ad0a-ee30b4fd161b.png"></article>]]></description>
+            <link>undefinedmy-new-corner-of-the-web/index.html</link>
+            <guid isPermaLink="false">ef04ded2-3546-41bf-84d4-83164b84786e</guid>
+            <pubDate>Wed, 17 Feb 2016 12:20:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
