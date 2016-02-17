@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How to spot phishing email scams
-datePublished: '2016-02-17T20:44:01.610Z'
-dateModified: '2016-02-17T20:43:58.265Z'
+datePublished: '2016-02-17T20:48:13.825Z'
+dateModified: '2016-02-17T20:48:12.547Z'
 title: Lost in cyberspace
 author: []
 sourcePath: _posts/2016-02-17-lost-in-cyberspace.md
@@ -45,7 +45,7 @@ Here are a few tips to avoid being hooked by a conman on a phishing expedition.
 
 ****
 
-Be suspicious of unsolicited emails
+## Be suspicious of unsolicited emails
 
 These generally appear in the form of emails from institutions like banks, pretending to require some information from you. The good folks at Google South Africa advise you to ignore these emails.
 
@@ -54,7 +54,7 @@ Never click on links within these suspicious communications. "If you suspect it 
 
 Most importantly, never EVER reveal any information about yourself, your family or your financial details," Google advises. 
 
-Look out for dodgy URLs
+## Look out for dodgy URLs
 
 In a bid to make their emails appear legitimate, scam artists often include web addresses, or URLs, that appear to link to legitimate companies like Microsoft, Apple or your bank.
 
@@ -65,16 +65,18 @@ The first part of that URL may appear to be legit, but it's the last part that's
 Remember to check ALL the URLS in the email.
 Scammers often pepper their mails with links to genuine websites in an attempt to lend them credibility. 
 
-Beware for bad grammar and speling
+## Beware for bad grammar and speling
 
 Poor spelling and grammar in an email supposedly from a multi-billion-rand corporation is a dead giveaway.
 
 These companies are fanatical about their corporate image and wouldn't sign off on a poorly written, badly edited document. 
 
-Trust your gut
+## Trust your gut
 
 Finally, if it seems too good to be true, it probably is. If someone promises you millions in return for a "modest investment" of a few thousand dollars, you'll probably spot it as a scam immediately.
+
 Other scams are more subtle, but if you listen to your better instincts (caution rather than greed) you'll usually be OK.
-.Want some more web safety tips? Check out this advice from Google SA
+
+Want some more web safety tips? Check out this advice from Google SA
 
 [0]: http://boingboing.net/2016/02/12/nigerian-astronaut-lost-in-spa.html
