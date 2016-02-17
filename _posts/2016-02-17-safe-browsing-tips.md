@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T13:48:18.555Z'
-dateModified: '2016-02-17T13:48:05.664Z'
+datePublished: '2016-02-17T14:08:17.595Z'
+dateModified: '2016-02-17T14:08:13.256Z'
 title: Safe browsing tips
 author: []
+sourcePath: _posts/2016-02-17-safe-browsing-tips.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-safe-browsing-tips.md
-published: true
 url: safe-browsing-tips/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dd94ad6-1c18-4966-a6fb-310ef417c275.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/825028f3-13d4-490e-b3e5-d6ef7bc6d3d3.jpg)
 
 # Safe browsing tips
 
