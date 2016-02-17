@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How to spot phishing email scams
-datePublished: '2016-02-17T13:09:35.995Z'
-dateModified: '2016-02-17T13:09:29.641Z'
+datePublished: '2016-02-17T13:31:32.468Z'
+dateModified: '2016-02-17T13:30:55.543Z'
 title: Lost in cyberspace
 author: []
 authors: []
@@ -37,7 +37,7 @@ The last flight in 1989 was to the secret Soviet military space station Salyut 8
 
 So where do I come in? It seems the agency requires my bank account as temporary home for the millions of dollars required to fund Tunde's return flight. As a reward, I'm promised a generous share of his S15 million in flight pay and interest that has accumulated over the years.
 
-As you've no doubt gathered by now this is a variation of the classic Nigerian 419 scam, albeit a particularly imaginative one. So far fetched, in fact, that many believe it's a parody.
+As you've no doubt gathered by now this is a variation of the classic Nigerian 419 scam, albeit a particularly imaginative one. So far fetched, in fact, that many believe it's a parody. You can read the [full email here][0].
 
 I know my readers wouldn't fall for something as obvious as this, but email scams are growing increasingly sophisticated. Millions of people fall victim to phishing emails each year, most pretending to come from a legitimate company or organisation - Nigeria really does have a space agency, by the way!
 
@@ -75,3 +75,5 @@ Finally, if it seems too good to be true, it probably is.
 If someone promises you millions in return for a "modest investment" of a few thousand dollars, you'll probably spot it as a scam immediately.
 
 Other scams are more subtle, but if you listen to your better instincts (caution rather than greed) you'll usually be OK.
+
+[0]: http://boingboing.net/2016/02/12/nigerian-astronaut-lost-in-spa.html
