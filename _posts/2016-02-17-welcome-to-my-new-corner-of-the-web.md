@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T10:53:25.408Z'
-dateModified: '2016-02-17T10:52:32.763Z'
+datePublished: '2016-02-17T10:55:40.619Z'
+dateModified: '2016-02-17T10:55:36.835Z'
 title: My new corner of the web
 author: []
 sourcePath: _posts/2016-02-17-welcome-to-my-new-corner-of-the-web.md
@@ -22,6 +22,8 @@ url: welcome-to-my-new-corner-of-the-web/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d50803f-7bbc-4c7d-b15d-c654e60314d4.png)
+
 # My new corner of the web
 
 After several years of posting my miscellaneous musings to the internet using [Tumblr][0], I've switched to The Grid, an ingenious, AI-based website-builder.
