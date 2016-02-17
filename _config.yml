@@ -1,6 +1,6 @@
 name: geekbeard
 favicon: null
-layout_spectrum: 0.5523941416759044
+layout_spectrum: 1
 typography_spectrum: 0.8166978443041444
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#110916'
+    - '#787878'
+    - '#aaafb3'
+    - '#3c3b40'
+    - '#690d32'
   brandStrength: 0.643069279845804
   lightness: 0.9801515354774892
   saturation: 0.429468372836709
