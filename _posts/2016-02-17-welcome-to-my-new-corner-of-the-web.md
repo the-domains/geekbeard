@@ -3,26 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T09:43:34.533Z'
-dateModified: '2016-02-17T09:42:50.208Z'
-title: Welcome to my new corner of the web
+datePublished: '2016-02-17T09:51:07.765Z'
+dateModified: '2016-02-17T09:50:10.934Z'
+title: My new corner of the web
 author: []
+sourcePath: _posts/2016-02-17-welcome-to-my-new-corner-of-the-web.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-welcome-to-my-new-corner-of-the-web.md
-published: true
 url: welcome-to-my-new-corner-of-the-web/index.html
 _type: Article
 
 ---
-# Welcome to my new corner of the web
+# My new corner of the web
 
 After several years of posting my miscellaneous musings to the internet using [Tumblr][0], I've switched to The Grid, an ingenious, AI-based website-builder.
 
