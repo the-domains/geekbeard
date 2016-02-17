@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T10:55:40.619Z'
-dateModified: '2016-02-17T10:55:36.835Z'
+datePublished: '2016-02-17T12:10:35.842Z'
+dateModified: '2016-02-17T12:07:20.638Z'
 title: My new corner of the web
 author: []
 sourcePath: _posts/2016-02-17-welcome-to-my-new-corner-of-the-web.md
