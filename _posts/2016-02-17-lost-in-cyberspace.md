@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How to spot phishing email scams
-datePublished: '2016-02-17T19:50:35.979Z'
-dateModified: '2016-02-17T19:50:34.595Z'
+datePublished: '2016-02-17T20:02:05.348Z'
+dateModified: '2016-02-17T20:01:43.615Z'
 title: Lost in cyberspace
 author: []
 sourcePath: _posts/2016-02-17-lost-in-cyberspace.md
@@ -43,14 +43,15 @@ I know my readers wouldn't fall for something as obvious as this, but email scam
 
 Here are a few tips to avoid being hooked by a conman on a phishing expedition.
 
-**Be wary of unsolicited emails**
+**Look out for dodgy URLs**
 
-These generally appear in the form of emails from institutions like banks, pretending to require some information from you.
+In a bid to make their emails appear legitimate, scam artists often include web addresses, or URLs, that appear to link to legitimate companies like Microsoft, Apple or your bank.
 
-The good folks at Google South Africa advise you to ignore these emails. 
-"Your bank will NEVER ask you for personal information via email. Never click on links within these suspicious communications.
+When in doubt, hover your mouse pointer over the URL provided. By doing this, a link that's displayed in your mail as, for example, 'yourbank.com' may be revealed to actually be 'yourbank.suckersclickhe.re'
 
-"If you suspect it might be legitimate, call the sender and check rather than clicking anything. Most importantly, never EVER reveal any information about yourself, your family or your financial details," Google advises.
+The first part of that URL may appear to be legit, but it's the last part that's important and is invariably the give-away. Remember to check ALL the URLS in the email.
+
+Scammers often pepper their mails with links to genuine websites in an attempt to lend them credibility.
 
 **Beware for bad grammar and speling **
 
@@ -58,16 +59,11 @@ Poor spelling and grammar in an email supposedly from a multi-billion-rand corpo
 
 These companies are fanatical about their corporate image and wouldn't sign off on a poorly written, badly edited document.
 
-**Look out for dodgy URLs**
+**Be suspicious of unsolicited emails**
 
-In a bid to make their emails appear legitimate, scam artists often include web addresses, or URLs, that appear to link to legitimate companies like Microsoft, Apple or your bank.
-
-When in doubt, hover your mouse pointer over the URL provided. By doing this, a link that's displayed in your mail as, for example, 'yourbank.com' may be revealed to actually be 'yourbank.suckersclickhe.re'
-
-The first part of that URL may appear to be legit, but it's the last part that's important and is invariably the give-away.
-Remember to check ALL the URLS in the email.
-
-Scammers often pepper their mails with links to genuine websites in an attempt to lend them credibility.
+These generally appear in the form of emails from institutions like banks, pretending to require some information from you.
+The good folks at Google South Africa advise you to ignore these emails. "Your bank will NEVER ask you for personal information via email. Never click on links within these suspicious communications.
+"If you suspect it might be legitimate, call the sender and check rather than clicking anything. Most importantly, never EVER reveal any information about yourself, your family or your financial details," Google advises.
 
 **Trust your gut **
 
