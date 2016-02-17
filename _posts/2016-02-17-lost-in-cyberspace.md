@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: How to spot phishing email scams
-datePublished: '2016-02-17T13:31:32.468Z'
-dateModified: '2016-02-17T13:30:55.543Z'
+datePublished: '2016-02-17T19:09:28.919Z'
+dateModified: '2016-02-17T19:08:41.337Z'
 title: Lost in cyberspace
 author: []
+sourcePath: _posts/2016-02-17-lost-in-cyberspace.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-lost-in-cyberspace.md
-published: true
 url: lost-in-cyberspace/index.html
 _type: Article
 
@@ -69,11 +69,14 @@ Remember to check ALL the URLS in the email.
 
 Scammers often pepper their mails with links to genuine websites in an attempt to lend them credibility.
 
-**Trust your instincts **
+**Trust your gut **
 
 Finally, if it seems too good to be true, it probably is.
 If someone promises you millions in return for a "modest investment" of a few thousand dollars, you'll probably spot it as a scam immediately.
 
 Other scams are more subtle, but if you listen to your better instincts (caution rather than greed) you'll usually be OK.
 
+.Want some more web safety tips? Check out [this advice from Google SA][1]
+
 [0]: http://boingboing.net/2016/02/12/nigerian-astronaut-lost-in-spa.html
+[1]: http://thegrid.ai/geekbeard/safe-browsing-tips/
