@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How to spot phishing email scams
-datePublished: '2016-02-17T20:49:17.306Z'
-dateModified: '2016-02-17T20:49:13.732Z'
+datePublished: '2016-02-17T20:52:39.105Z'
+dateModified: '2016-02-17T20:52:35.704Z'
 title: Lost in cyberspace
 author: []
 sourcePath: _posts/2016-02-17-lost-in-cyberspace.md
@@ -77,6 +77,7 @@ Finally, if it seems too good to be true, it probably is. If someone promises yo
 
 Other scams are more subtle, but if you listen to your better instincts (caution rather than greed) you'll usually be OK.
 
-Want some more web safety tips? Check out this advice from Google SA
+Want some more web safety tips? Check out [this advice from Google SA][1]
 
 [0]: http://boingboing.net/2016/02/12/nigerian-astronaut-lost-in-spa.html
+[1]: http://thegrid.ai/geekbeard/safe-browsing-tips/
