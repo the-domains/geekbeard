@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T18:57:17.481Z'
-dateModified: '2016-02-17T18:57:16.501Z'
+datePublished: '2016-02-17T20:14:09.837Z'
+dateModified: '2016-02-17T20:13:59.180Z'
 title: Safe browsing tips
 author: []
 sourcePath: _posts/2016-02-17-safe-browsing-tips.md
@@ -49,6 +49,8 @@ Your service providers can use your phone number to challenge a login attempt th
 Keeping an eye out for unsolicited emails and invitations is a good way to avoid phishing scams. Generally, these appear in the form of emails from institutions like banks, pretending to require some information from you. Best practise is to ignore these altogether.
 
 > Your bank will NEVER ask you for personal information via email. Never click on links within these suspicious communications.
+> 
+> 
 
 If you suspect the email is legitimate, but aren't sure, call the sender and check rather than clicking anything. Most importantly, never EVER reveal any information about yourself, your family or your financial details.
 
