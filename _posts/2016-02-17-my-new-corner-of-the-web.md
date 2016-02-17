@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T12:20:58.829Z'
-dateModified: '2016-02-17T12:20:17.741Z'
+datePublished: '2016-02-17T19:22:10.941Z'
+dateModified: '2016-02-17T19:21:55.165Z'
 title: My new corner of the web
 author: []
+sourcePath: _posts/2016-02-17-my-new-corner-of-the-web.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-my-new-corner-of-the-web.md
-published: true
-url: my-new-corner-of-the-web/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc9caf12-8fb9-4ee1-ad0a-ee30b4fd161b.png)
@@ -28,7 +28,7 @@ _type: Article
 
 After several years of posting my miscellaneous musings to [Tumblr][0], I've switched to The Grid, an AI-based web-builder.
 
-According to the marketing speil...
+According to the marketing spiel...
 
 _"The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you"_
 
