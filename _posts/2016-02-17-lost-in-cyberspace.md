@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How to spot phishing email scams
-datePublished: '2016-02-17T19:34:08.655Z'
-dateModified: '2016-02-17T19:34:05.258Z'
+datePublished: '2016-02-17T19:38:33.333Z'
+dateModified: '2016-02-17T19:38:32.202Z'
 title: Lost in cyberspace
 author: []
 sourcePath: _posts/2016-02-17-lost-in-cyberspace.md
@@ -43,9 +43,9 @@ I know my readers wouldn't fall for something as obvious as this, but email scam
 
 Here are a few tips to avoid being hooked by a conman on a phishing expedition.
 
-**Be suspicious of unsolicited emails**
+**Be wary of unsolicited emails**
 
-Generally, these appear in the form of emails from institutions like banks, pretending to require some information from you.
+These generally appear in the form of emails from institutions like banks, pretending to require some information from you.
 
 The good folks at Google South Africa advise you to ignore these emails. 
 "Your bank will NEVER ask you for personal information via email. Never click on links within these suspicious communications.
