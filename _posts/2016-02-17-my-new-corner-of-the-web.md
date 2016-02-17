@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T19:52:29.853Z'
-dateModified: '2016-02-17T19:52:13.815Z'
+datePublished: '2016-02-17T19:53:30.867Z'
+dateModified: '2016-02-17T19:53:20.795Z'
 title: My new corner of the web
 author: []
 sourcePath: _posts/2016-02-17-my-new-corner-of-the-web.md
@@ -32,7 +32,7 @@ According to the marketing spiel...
 
 __
 
-_The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you_
+> The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you
 
 __
 
