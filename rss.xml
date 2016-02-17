@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[geekbeard]]></title>
-        <description><![CDATA[geekbeard]]></description>
+        <title><![CDATA[dispatches from the tech front]]></title>
+        <description><![CDATA[dispatches from the tech front]]></description>
         <link>https://thegrid.ai/geekbeard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 17:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 18:58:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekbeard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MWC 2016: what to expect from the world's biggest mobile tech show - AndroidPIT]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.androidpit.com/mwc-launches-news-highlights</link>
             <guid isPermaLink="false">ca16e82b-993f-448f-a824-b8e942d5b1b6</guid>
             <pubDate>Wed, 17 Feb 2016 17:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Safe browsing tips]]></title>
-            <description><![CDATA[<article><h1>Safe browsing tips</h1><p>The internet is as vast as it is scary and it pays to be careful in the digital age where cyber-criminals are getting smarter, and your personal information is getting more valuable by the day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b46de3ca465024f5cf68d3a8cf59dd6eee07f8ed.jpg"></article>]]></description>
-            <link>https://thegrid.ai/geekbeard/safe-browsing-tips/index.html</link>
-            <guid isPermaLink="false">1cef12a3-5c03-4417-ba8e-185a7902345e</guid>
-            <pubDate>Wed, 17 Feb 2016 14:08:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lost in cyberspace]]></title>
