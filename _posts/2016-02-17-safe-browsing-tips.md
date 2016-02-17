@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T14:08:17.595Z'
-dateModified: '2016-02-17T14:08:13.256Z'
+datePublished: '2016-02-17T18:57:17.481Z'
+dateModified: '2016-02-17T18:57:16.501Z'
 title: Safe browsing tips
 author: []
 sourcePath: _posts/2016-02-17-safe-browsing-tips.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: safe-browsing-tips/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/825028f3-13d4-490e-b3e5-d6ef7bc6d3d3.jpg)
