@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How to spot phishing email scams
-datePublished: '2016-02-17T20:48:13.825Z'
-dateModified: '2016-02-17T20:48:12.547Z'
+datePublished: '2016-02-17T20:49:17.306Z'
+dateModified: '2016-02-17T20:49:13.732Z'
 title: Lost in cyberspace
 author: []
 sourcePath: _posts/2016-02-17-lost-in-cyberspace.md
