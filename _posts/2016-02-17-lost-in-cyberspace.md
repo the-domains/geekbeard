@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How to spot phishing email scams
-datePublished: '2016-02-17T20:11:56.989Z'
-dateModified: '2016-02-17T20:11:53.592Z'
+datePublished: '2016-02-17T20:38:26.688Z'
+dateModified: '2016-02-17T20:38:05.116Z'
 title: Lost in cyberspace
 author: []
 sourcePath: _posts/2016-02-17-lost-in-cyberspace.md
@@ -71,9 +71,7 @@ Poor spelling and grammar in an email supposedly from a multi-billion-rand corpo
 
 These companies are fanatical about their corporate image and wouldn't sign off on a poorly written, badly edited document.
 
-**Trust your gut **
-
-Finally, if it seems too good to be true, it probably is.
+**Trust your gut **Finally, if it seems too good to be true, it probably is.
 If someone promises you millions in return for a "modest investment" of a few thousand dollars, you'll probably spot it as a scam immediately.
 
 Other scams are more subtle, but if you listen to your better instincts (caution rather than greed) you'll usually be OK.
