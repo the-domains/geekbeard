@@ -16,8 +16,8 @@ keywords:
   - painting
   - painters
 description: "Related: Samsung Galaxy S7 rumour roundup Llamas are cool, right? Damn right they are. But they aren't what we'd classify as professional unboxers (or painters, for that matter). Still, that didn't stop Samsung Sweden from publishing one of the strangest hype videos we've ever seen."
-datePublished: '2016-02-18T09:34:43.837Z'
-dateModified: '2016-02-18T09:34:21.974Z'
+datePublished: '2016-02-18T11:21:15.928Z'
+dateModified: '2016-02-18T11:21:13.056Z'
 author:
   - name: 'Andy Walker: Gearburn Editor'
     url: 'http://gearburn.com/author/andywalker/'
