@@ -4,7 +4,7 @@
         <description><![CDATA[geekbeard]]></description>
         <link>https://thegrid.ai/geekbeard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 14:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 14:28:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekbeard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lost in cyberspace]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/geekbeard/lost-in-cyberspace/index.html</link>
             <guid isPermaLink="false">fd11019e-5c76-404b-b0ed-b56d70a740e0</guid>
             <pubDate>Thu, 18 Feb 2016 05:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My new corner of the web]]></title>
+            <description><![CDATA[<article><h1>My new corner of the web</h1><p>After several years of posting annotated versions of my Sunday Tribune and IOL articles as well as miscellaneous tech musings to Tumblr, I've switched to The Grid, an AI-based web-builder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30b67a74be5d467ae079869480d29fa44ea305c1.png"></article>]]></description>
+            <link>https://thegrid.ai/geekbeard/my-new-corner-of-the-web/index.html</link>
+            <guid isPermaLink="false">ef04ded2-3546-41bf-84d4-83164b84786e</guid>
+            <pubDate>Thu, 18 Feb 2016 14:28:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Uber for entrepreneurs]]></title>
