@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T13:25:32.393Z'
-dateModified: '2016-02-18T13:25:31.627Z'
+datePublished: '2016-02-18T14:28:05.478Z'
+dateModified: '2016-02-18T14:28:01.365Z'
 title: My new corner of the web
 author: []
 sourcePath: _posts/2016-02-17-my-new-corner-of-the-web.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: my-new-corner-of-the-web/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc9caf12-8fb9-4ee1-ad0a-ee30b4fd161b.png)
