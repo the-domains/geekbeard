@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How to spot phishing email scams
-datePublished: '2016-02-17T20:52:39.105Z'
-dateModified: '2016-02-17T20:52:35.704Z'
+datePublished: '2016-02-18T05:22:55.295Z'
+dateModified: '2016-02-18T05:22:00.895Z'
 title: Lost in cyberspace
 author: []
 sourcePath: _posts/2016-02-17-lost-in-cyberspace.md
@@ -58,7 +58,7 @@ Most importantly, never EVER reveal any information about yourself, your family 
 
 In a bid to make their emails appear legitimate, scam artists often include web addresses, or URLs, that appear to link to legitimate companies like Microsoft, Apple or your bank.
 
-When in doubt, hover your mouse pointer over the URL provided. By doing this, a link that's displayed in your mail as, for example, 'yourbank.com'; may be revealed to actually be 'yourbank.suckersclickhe.re'.
+When in doubt, hover your mouse pointer over the URL provided. By doing this, a link that's displayed in your mail as, for example, 'yourbank.com' may be revealed to actually be 'yourbank. suckersclickhe. re'.
 
 The first part of that URL may appear to be legit, but it's the last part that's important and is invariably the give-away.
 
