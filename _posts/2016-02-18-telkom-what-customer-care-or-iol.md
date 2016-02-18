@@ -16,8 +16,8 @@ keywords:
   - connectivity
   - complaints
 description: "If you have ever found yourself trapped in that circle of hell called Telkom customer service, you'll sympathise with the fellow customer who's started an online petition titled \"TELKOM! Get a proper customer care department\". Posted at Change.org, the motivation urging other Telkom users to sign the petition details a litany of woes."
-datePublished: '2016-02-18T15:43:47.434Z'
-dateModified: '2016-02-18T15:43:46.569Z'
+datePublished: '2016-02-18T16:04:54.509Z'
+dateModified: '2016-02-18T16:04:53.572Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-A few weeks back [I reported on][0] how longstanding frustrations over Telkom's poor customer care had culminated in an [online petition][1] aimed at getting the communications parastatal to sort out the mess once and for all.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acdb890e-f58f-478b-90ad-dc3450302bef.png)
+
+A few weeks back in my column in the [Sunday Tribune][0] I reported on how longstanding frustrations over Telkom's poor customer care had culminated in an [online petition][1] aimed at getting the communications parastatal to sort out the mess once and for all.
 
 Predictably, many readers contacted me with their own complaints, but there were also a few who complimented Telkom for its speedy resolution of their problems.
 
@@ -45,7 +47,7 @@ Here's an excerpt from one of them...
 
 Still, the feedback was overwhelmingly negative and Telkom has a real mountain to climb in getting all its disparate legacy customer-facing systems consolidated into a unified, effective customer care system.
 
-As I pointed out in [the articl][2]e, Telkom is aware of the issue and working to solve it. I've since been informed that a big announcement regarding this is in the offing.
+As I pointed out in [the articl][0]e, Telkom is aware of the issue and working to solve it. I've since been informed that a big announcement regarding this is in the offing.
 
 Watch this space, but don't hold your breath either.
 
@@ -53,6 +55,5 @@ Watch this space, but don't hold your breath either.
 
 
 
-[0]: null
+[0]: http://www.iol.co.za/scitech/technology/telecoms/telkom-what-customer-care-1981270
 [1]: https://www.change.org/p/ceo-of-telkom-telkom-get-a-proper-customer-care-department
-[2]: http://www.iol.co.za/scitech/technology/telecoms/telkom-what-customer-care-1981270
