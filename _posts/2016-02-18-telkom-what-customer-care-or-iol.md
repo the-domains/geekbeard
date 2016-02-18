@@ -16,12 +16,12 @@ keywords:
   - connectivity
   - complaints
 description: "If you have ever found yourself trapped in that circle of hell called Telkom customer service, you'll sympathise with the fellow customer who's started an online petition titled \"TELKOM! Get a proper customer care department\". Posted at Change.org, the motivation urging other Telkom users to sign the petition details a litany of woes."
-datePublished: '2016-02-18T16:04:54.509Z'
-dateModified: '2016-02-18T16:04:53.572Z'
+datePublished: '2016-02-18T16:09:42.086Z'
+dateModified: '2016-02-18T16:09:41.331Z'
 author: []
 related: []
 app_links: []
-title: 'Telkom. What customer care? | IOL'
+title: 'Telkom: What customer care? - a follow-up'
 sourcePath: _posts/2016-02-18-telkom-what-customer-care-or-iol.md
 published: true
 authors: []
@@ -35,6 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# Telkom: What customer care? - a follow-up
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acdb890e-f58f-478b-90ad-dc3450302bef.png)
 
 A few weeks back in my column in the [Sunday Tribune][0] I reported on how longstanding frustrations over Telkom's poor customer care had culminated in an [online petition][1] aimed at getting the communications parastatal to sort out the mess once and for all.
