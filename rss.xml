@@ -4,7 +4,7 @@
         <description><![CDATA[geekbeard]]></description>
         <link>https://thegrid.ai/geekbeard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 14:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 14:56:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekbeard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lost in cyberspace]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 18 Feb 2016 05:22:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The growing Internet of things that can spy on you]]></title>
+            <description><![CDATA[<article><h1>The growing Internet of things that can spy on you</h1><p>Mobile World Congress at Barcelona is just around the corner and, judging by the programme, the Internet of things (IoT) is going to be a major theme.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/652058f88e89ccc85e4943c32ed16c02f266389e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/geekbeard/the-growing-internet-of-things-that-can-spy-on-you/index.html</link>
+            <guid isPermaLink="false">906fd7a7-aaf1-4150-8bbd-04da1d4ee332</guid>
+            <pubDate>Thu, 18 Feb 2016 14:55:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My new corner of the web]]></title>
-            <description><![CDATA[<article><h1>My new corner of the web</h1><p>After several years of posting annotated versions of my Sunday Tribune and IOL articles as well as miscellaneous tech musings to Tumblr, I've switched to The Grid, an AI-based web-builder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30b67a74be5d467ae079869480d29fa44ea305c1.png"></article>]]></description>
+            <description><![CDATA[<article><h1>My new corner of the web</h1><p>After several years of posting annotated versions of my Sunday Tribune and IOL articles as well as miscellaneous tech musings to Tumblr, I've switched to The Grid, an AI-based web-builder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6008adc84efeca17c1ed80f32a9d3d683c07fad1.png"></article>]]></description>
             <link>https://thegrid.ai/geekbeard/my-new-corner-of-the-web/index.html</link>
             <guid isPermaLink="false">ef04ded2-3546-41bf-84d4-83164b84786e</guid>
             <pubDate>Thu, 18 Feb 2016 14:28:05 GMT</pubDate>
