@@ -16,8 +16,8 @@ keywords:
   - oaths
   - internet
 description: "Regular readers of this column will know I've been excited about the internet of things for some time. It's a buzzword that describes the movement, currently in full swing, to connect common household objects and appliances like door locks, security cameras, and light bulbs to the web, allowing us to monitor and control them remotely."
-datePublished: '2016-02-18T14:59:34.825Z'
-dateModified: '2016-02-18T14:59:30.516Z'
+datePublished: '2016-02-18T15:10:34.023Z'
+dateModified: '2016-02-18T15:10:22.178Z'
 author: []
 related:
   - score: 0.5403208137000001
@@ -42,6 +42,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b64925d5-2edb-4fa9-a386-1f23c33b3014.jpg)
+
 # The ever growing Internet of things able to spy on you
 
 Mobile World Congress at Barcelona is just around the corner and, judging by the programme, the Internet of things (IoT) is going to be a major theme.
