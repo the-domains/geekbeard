@@ -16,8 +16,8 @@ keywords:
   - african
   - music
 description: Google has quietly launched a transactional video-on-demand service in South Africa through its Google Play platform. Google has quietly launched a transactional video-on-demand (VOD) service in South Africa through its Google Play platform.
-datePublished: '2016-02-18T08:17:34.627Z'
-dateModified: '2016-02-18T08:14:09.626Z'
+datePublished: '2016-02-18T09:46:40.457Z'
+dateModified: '2016-02-18T09:46:39.839Z'
 author: []
 related: []
 app_links: []
@@ -46,5 +46,14 @@ Google's quietly launched its Play Movies service in South Africa.
 As this article reveals, you can hire movies starting at just R11,99 for older titles and R34,99 for the latest blockbusters. Outright purchases of the latest titles will cost R149,99\.
 
 But - and it's a big but - there's no TV series yet, nor any indication when there will be.
+
+Here's how to get your hands on Google Play Movies...
+
+**Android devices** - Open the Play Store on your phone or tablet, and open 'Movies'. Movies can be streamed for immediate viewing or downloaded for offline watching.
+
+**iOS devices** - Download the Google Play Movies app from the Apple App Store on your iPhone or iPad. Movies you've purchased on Google Play (play.google.com) are available immediately to stream or download in the Play Movies app.
+
+**On the web** - Browse to the Google Play store (play.google.com/), buy or rent movies and watch them immediately.
+On your TV - South Africans can also watch movies on Android TV, Chromecast, or (coming soon) LG Smart TV.
 
 <article style=""><h1>Google Play Movies now live in SA</h1><p>Google has quietly launched a transactional video-on-demand service in South Africa through its Google Play platform&amp;period; Google has quietly launched a transactional video-on-demand &amp;lpar;VOD&amp;rpar; service in South Africa through its Google Play platform&amp;period;</p><img src="http://www.techcentral.co.za/wp-content/uploads/2016/02/google-play-movies-640.jpg" /></article>
