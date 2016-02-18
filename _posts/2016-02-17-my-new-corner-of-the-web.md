@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T19:53:30.867Z'
-dateModified: '2016-02-17T19:53:20.795Z'
+datePublished: '2016-02-18T13:25:32.393Z'
+dateModified: '2016-02-18T13:25:31.627Z'
 title: My new corner of the web
 author: []
 sourcePath: _posts/2016-02-17-my-new-corner-of-the-web.md
@@ -26,7 +26,7 @@ _type: Blurb
 
 # My new corner of the web
 
-After several years of posting my miscellaneous musings to [Tumblr][0], I've switched to The Grid, an AI-based web-builder.
+After several years of posting annotated versions of my [Sunday Tribune][0] and [IOL][1] articles as well as miscellaneous tech musings to [Tumblr][2], I've switched to The Grid, an AI-based web-builder.
 
 According to the marketing spiel...
 
@@ -38,4 +38,6 @@ __
 
 Let's see if the hype lives up to reality. 
 
-[0]: http://alanqcooper.tumblr.com/
+[0]: http://www.iol.co.za/sunday-tribune
+[1]: http://www.iol.co.za/scitech
+[2]: http://alanqcooper.tumblr.com/
