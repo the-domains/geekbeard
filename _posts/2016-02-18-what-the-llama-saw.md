@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://gearburn.com/2016/02/this-llama-saw-the-samsung-galaxy-s7-before-you-video/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - painting
   - painters
 description: "Related: Samsung Galaxy S7 rumour roundup Llamas are cool, right? Damn right they are. But they aren't what we'd classify as professional unboxers (or painters, for that matter). Still, that didn't stop Samsung Sweden from publishing one of the strangest hype videos we've ever seen."
-datePublished: '2016-02-18T09:32:07.645Z'
-dateModified: '2016-02-18T09:14:26.985Z'
+datePublished: '2016-02-18T09:34:43.837Z'
+dateModified: '2016-02-18T09:34:21.974Z'
 author:
   - name: 'Andy Walker: Gearburn Editor'
     url: 'http://gearburn.com/author/andywalker/'
@@ -29,14 +28,15 @@ author:
 related: []
 app_links: []
 title: What the llama saw
+sourcePath: _posts/2016-02-18-what-the-llama-saw.md
+published: true
 authors: []
 publisher:
   name: Gearburn
   domain: gearburn.com
   url: 'http://gearburn.com'
   favicon: 'http://gearburn.com/wp-content/uploads/2015/08/gearburnfavicon.jpg'
-sourcePath: _posts/2016-02-18-what-the-llama-saw.md
-published: true
+url: what-the-llama-saw/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
