@@ -16,8 +16,8 @@ keywords:
   - oaths
   - internet
 description: "Regular readers of this column will know I've been excited about the internet of things for some time. It's a buzzword that describes the movement, currently in full swing, to connect common household objects and appliances like door locks, security cameras, and light bulbs to the web, allowing us to monitor and control them remotely."
-datePublished: '2016-02-18T14:55:42.439Z'
-dateModified: '2016-02-18T14:55:24.127Z'
+datePublished: '2016-02-18T14:59:34.825Z'
+dateModified: '2016-02-18T14:59:30.516Z'
 author: []
 related:
   - score: 0.5403208137000001
@@ -28,21 +28,21 @@ related:
     thumbnail_url: 'http://keepass.info/screenshots/keepass_2x/main.jpg'
     thumbnail_width: 300
 app_links: []
-title: The growing Internet of things that can spy on you
+title: The ever growing Internet of things able to spy on you
+sourcePath: _posts/2016-02-18-the-growing-internet-of-things-that-can-spy-on-you.md
+published: true
 authors: []
 publisher:
   name: IOL
   domain: www.iol.co.za
   url: 'http://www.iol.co.za'
   favicon: 'http://www.iol.co.za/img/branding/iol/touch-icon-192x192.png'
-sourcePath: _posts/2016-02-18-the-growing-internet-of-things-that-can-spy-on-you.md
-published: true
 url: the-growing-internet-of-things-that-can-spy-on-you/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# The growing Internet of things that can spy on you
+# The ever growing Internet of things able to spy on you
 
 Mobile World Congress at Barcelona is just around the corner and, judging by the programme, the Internet of things (IoT) is going to be a major theme.
 
