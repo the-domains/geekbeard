@@ -4,7 +4,7 @@
         <description><![CDATA[geekbeard]]></description>
         <link>https://thegrid.ai/geekbeard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 15:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 15:23:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekbeard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Who'll reign in Spain?]]></title>
@@ -21,13 +21,6 @@
             <pubDate>Thu, 18 Feb 2016 05:22:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Explore the skies with this new USS Enterprise drone]]></title>
-            <description><![CDATA[<article><h1>Explore the skies with this new USS Enterprise drone</h1><p>Spin Master is probably best known for its line of Air Hogs RC vehicles, but the company also has prior experience with recreating fictional spacecraft in drone form. Last year's Star Wars "Force Friday" event brought us a quadcopter Millennium Falcon and X-wing starfighter. The USS Enterprise shows the same level of care in its design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9965a322484d430a029bc28ced5aa2b3dd25f56f.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2016/02/18/uss-enterprise-drone/#</link>
-            <guid isPermaLink="false">576e955c-4ee4-4ee5-bf5f-0593db98f2b5</guid>
-            <pubDate>Sat, 20 Feb 2016 15:22:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[INFOGRAPHIC: How 30% of mobile data is wasted]]></title>
             <description><![CDATA[<article><h1>INFOGRAPHIC: How 30% of mobile data is wasted</h1><p>Web browser maker Opera has released a study that details how much of your mobile data could be eaten by the background activity of some apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5b2535dddfec0f368c7de62ae4e25f1fe0cbbc7.jpg"></article>]]></description>
             <link>http://m.fin24.com/fin24/Tech/Multimedia/infographic-how-30-of-mobile-data-is-wasted-20160218</link>
@@ -39,7 +32,7 @@
             <description><![CDATA[<article><h1>A Blade Runner 2 release date has finally been announced</h1><p>This is not a drill: Blade Runner 2 finally has a release date. Warner Bros. has scheduled the long-awaited sequel to the 1982 Ridley Scott-helmed cult hit for a January 2018 opening, reports THR. Harrison Ford will return to star in the follow-up film, joined by Ryan Gosling.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/602e1e4adde296c88b9af738f59f9a2f6aa4859f.jpg"></article>]]></description>
             <link>http://www.digitaltrends.com/movies/blade-runner-2-release-date/?utm_source=dlvr.it&amp;utm_medium=twitter</link>
             <guid isPermaLink="false">3e990586-f1e2-4f42-b9b3-57572203e144</guid>
-            <pubDate>Sat, 20 Feb 2016 15:22:58 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 15:22:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[By George, Han DID shoot first]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/geekbeard/the-uber-for-entrepreneurs/index.html</link>
             <guid isPermaLink="false">0e641110-ad5a-468b-9202-f3c70e17c518</guid>
             <pubDate>Thu, 18 Feb 2016 14:25:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the llama saw]]></title>
+            <description><![CDATA[<article><h1>What the llama saw</h1><p>As the world's tech journalists champ at the bit to get their hands on Samsung's new Galaxy S7 at it's official unveiling on Sunday, it seems they've been beaten to the punch - and by a Llama, nogal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc277f162aff5c12f3a59ce7aeb957f80a79bcff.jpg"></article>]]></description>
+            <link>https://thegrid.ai/geekbeard/what-the-llama-saw/index.html</link>
+            <guid isPermaLink="false">f4e8339c-13d9-43d2-be7f-8aeb83f3be2d</guid>
+            <pubDate>Thu, 18 Feb 2016 11:21:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
