@@ -17,8 +17,8 @@ keywords:
   - resemble
   - drone
 description: "Spin Master is probably best known for its line of Air Hogs RC vehicles, but the company also has prior experience with recreating fictional spacecraft in drone form. Last year's Star Wars \"Force Friday\" event brought us a quadcopter Millennium Falcon and X-wing starfighter. The USS Enterprise shows the same level of care in its design."
-datePublished: '2016-02-20T15:22:57.805Z'
-dateModified: '2016-02-20T15:22:56.782Z'
+datePublished: '2016-02-20T15:23:00.851Z'
+dateModified: '2016-02-20T15:22:59.851Z'
 author: []
 related: []
 app_links: []
