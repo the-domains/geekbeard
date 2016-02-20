@@ -17,8 +17,8 @@ keywords:
   - infographic
   - using
 description: Web browser maker Opera has released a study that details how much of your mobile data could be eaten by the background activity of some apps.
-datePublished: '2016-02-20T15:22:55.785Z'
-dateModified: '2016-02-20T15:22:54.648Z'
+datePublished: '2016-02-20T15:22:58.188Z'
+dateModified: '2016-02-20T15:22:56.949Z'
 author: []
 related: []
 app_links: []
