@@ -17,8 +17,8 @@ keywords:
   - '2018'
   - androids
 description: 'This is not a drill: Blade Runner 2 finally has a release date. Warner Bros. has scheduled the long-awaited sequel to the 1982 Ridley Scott-helmed cult hit for a January 2018 opening, reports THR. Harrison Ford will return to star in the follow-up film, joined by Ryan Gosling.'
-datePublished: '2016-02-20T15:22:54.185Z'
-dateModified: '2016-02-20T15:22:53.378Z'
+datePublished: '2016-02-20T15:22:58.127Z'
+dateModified: '2016-02-20T15:22:56.925Z'
 author:
   - name: Stephanie Topacio Long
     url: 'http://www.digitaltrends.com/users/smtopaciolong/'
@@ -26,14 +26,14 @@ author:
 related: []
 app_links: []
 title: A Blade Runner 2 release date has finally been announced
+sourcePath: _posts/2016-02-20-a-blade-runner-2-release-date-has-finally-been-announced.md
+published: true
 authors: []
 publisher:
   name: Digital Trends
   domain: www.digitaltrends.com
   url: 'http://www.digitaltrends.com'
   favicon: 'http://cdn7.digitaltrends.com/favicon.ico?ver=2'
-sourcePath: _posts/2016-02-20-a-blade-runner-2-release-date-has-finally-been-announced.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
