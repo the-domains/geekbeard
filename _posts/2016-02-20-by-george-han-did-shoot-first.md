@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://arstechnica.co.uk/the-multiverse/2016/02/original-1977-star-wars-35mm-print-has-been-restored-and-released-online/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - cgi
   - version
 description: "A restored HD version of the original Star Wars Episode IV: A New Hope 35mm print has appeared online. While this isn't the first time that attempts have been made to restore Star Wars to its original theatrical version-that's the one without the much-maligned CGI effects and edits of later \"special\" editions-it is the first to have been based entirely on a single 35mm print of the film, rather than cut together from various sources."
-datePublished: '2016-02-20T15:02:57.181Z'
-dateModified: '2016-02-20T15:02:40.485Z'
+datePublished: '2016-02-22T09:46:20.777Z'
+dateModified: '2016-02-22T09:46:13.363Z'
 author:
   - name: Mark Walton
     url: 'http://arstechnica.co.uk/author/mark_walton/'
@@ -40,14 +39,15 @@ related:
     thumbnail_width: 480
 app_links: []
 title: 'By George, Han DID shoot first'
+sourcePath: _posts/2016-02-20-by-george-han-did-shoot-first.md
+published: true
 authors: []
 publisher:
   name: Ars Technica UK
   domain: arstechnica.co.uk
   url: 'http://arstechnica.co.uk'
   favicon: 'https://cdn.arstechnica.net/favicon.ico'
-sourcePath: _posts/2016-02-20-by-george-han-did-shoot-first.md
-published: true
+url: by-george-han-did-shoot-first/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
