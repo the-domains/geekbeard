@@ -4,8 +4,15 @@
         <description><![CDATA[geekbeard]]></description>
         <link>https://thegrid.ai/geekbeard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 20:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 20:32:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekbeard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Internet of Things]]></title>
+            <description><![CDATA[<article><h1>Internet of Things</h1><h2>Why all the fuss suddenly?</h2></article>]]></description>
+            <link>https://thegrid.ai/geekbeard/internet-of-things/index.html</link>
+            <guid isPermaLink="false">7692a78c-723d-434e-975a-d08999384363</guid>
+            <pubDate>Mon, 14 Mar 2016 20:32:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[S7th heaven]]></title>
             <description><![CDATA[<article><h1>S7th heaven</h1><h2>Even better to hold and behold</h2><p>Although details of the devices were widely leaked ahead of the official unveiling by the company's Mobile chief DJ Koh, they didn't do justice to just how great the two flagship projects look and feel in the flesh - or should that be glass and steel?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/783437c389f9c9d9325102f64f7bcb3e126099bc.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/geekbeard/lost-in-cyberspace/index.html</link>
             <guid isPermaLink="false">fd11019e-5c76-404b-b0ed-b56d70a740e0</guid>
             <pubDate>Thu, 18 Feb 2016 05:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internet of Things]]></title>
-            <description><![CDATA[<article><h1>Internet of Things</h1><h2>Why all the fuss suddenly?</h2></article>]]></description>
-            <link>https://thegrid.ai/geekbeard/internet-of-things/index.html</link>
-            <guid isPermaLink="false">7692a78c-723d-434e-975a-d08999384363</guid>
-            <pubDate>Mon, 14 Mar 2016 20:18:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[King of convertibles?]]></title>
