@@ -4,7 +4,7 @@
         <description><![CDATA[geekbeard]]></description>
         <link>https://thegrid.ai/geekbeard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 19:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 20:19:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekbeard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[S7th heaven]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/geekbeard/lost-in-cyberspace/index.html</link>
             <guid isPermaLink="false">fd11019e-5c76-404b-b0ed-b56d70a740e0</guid>
             <pubDate>Thu, 18 Feb 2016 05:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Internet of Things]]></title>
+            <description><![CDATA[<article><h1>Internet of Things</h1><h2>Why all the fuss suddenly?</h2></article>]]></description>
+            <link>https://thegrid.ai/geekbeard/internet-of-things/index.html</link>
+            <guid isPermaLink="false">7692a78c-723d-434e-975a-d08999384363</guid>
+            <pubDate>Mon, 14 Mar 2016 20:18:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[King of convertibles?]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/geekbeard/my-new-corner-of-the-web/index.html</link>
             <guid isPermaLink="false">ef04ded2-3546-41bf-84d4-83164b84786e</guid>
             <pubDate>Thu, 18 Feb 2016 14:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Uber for entrepreneurs]]></title>
-            <description><![CDATA[<article><h1>The Uber for entrepreneurs</h1><p>With so much doom and gloom doing the rounds these days, this news comes as a real tonic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e204fc558d7627bbfe6d1dceecaab297137dc1d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/geekbeard/the-uber-for-entrepreneurs/index.html</link>
-            <guid isPermaLink="false">0e641110-ad5a-468b-9202-f3c70e17c518</guid>
-            <pubDate>Thu, 18 Feb 2016 14:25:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
