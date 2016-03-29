@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "In a recent \_column I shared my first impressions of Samsung’s gorgeous Galaxy S7 and S7 Edge smartphones following their unveiling at the start of Mobile World Congress (MWC) in Barcelona."
-datePublished: '2016-03-29T20:50:34.784Z'
-dateModified: '2016-03-29T20:50:33.199Z'
+datePublished: '2016-03-29T20:59:16.023Z'
+dateModified: '2016-03-29T20:58:38.248Z'
 title: A world of mobile marvels
 author: []
 sourcePath: _posts/2016-03-29-a-world-of-mobile-marvels.md
@@ -96,5 +96,7 @@ Sony's hoping to overcome this sterotype with its Xperia Ear by making the earbu
 Sony's pitching it as a digital assistant in your ear, delivering social media updates, the latest news and weather, voice search capability as well as turn-by-turn directions.
 
 I'm a sucker for these devices, but I'd have preferred Sony to have used Android's Google Now voice assistant, rather than its own.
+
+_This is a edited and annotated version of an article that appeared first in the Sunday Tribune's SM Magazine on 6 March 2016\. It is used here with permission._
 
 [0]: https://thegrid.ai/geekbeard/s7th-heaven/
