@@ -4,7 +4,7 @@
         <description><![CDATA[geekbeard]]></description>
         <link>https://thegrid.ai/geekbeard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 20:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 20:23:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geekbeard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Internet of Things]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/geekbeard/lost-in-cyberspace/index.html</link>
             <guid isPermaLink="false">fd11019e-5c76-404b-b0ed-b56d70a740e0</guid>
             <pubDate>Thu, 18 Feb 2016 05:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A world of mobile marvels]]></title>
+            <description><![CDATA[<article><h1>A world of mobile marvels</h1><p>In a recent  column I shared my first impressions of Samsung’s gorgeous Galaxy S7 and S7 Edge smartphones following their unveiling at the start of Mobile World Congress (MWC) in Barcelona.</p></article>]]></description>
+            <link>https://thegrid.ai/geekbeard/a-world-of-mobile-marvels/index.html</link>
+            <guid isPermaLink="false">4b9e1219-e852-4dcc-b417-e4af8fabf733</guid>
+            <pubDate>Tue, 29 Mar 2016 20:23:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ ]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/geekbeard/telkom-what-customer-care-or-iol/index.html</link>
             <guid isPermaLink="false">3afd1a55-bfbf-46ba-b58d-2b13f4750193</guid>
             <pubDate>Thu, 18 Feb 2016 16:09:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ever growing Internet of things able to spy on you]]></title>
-            <description><![CDATA[<article><h1>The ever growing Internet of things able to spy on you</h1><p>Mobile World Congress at Barcelona is just around the corner and, judging by the programme, the Internet of things (IoT) is going to be a major theme.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/321bf3ae9387d6e2033098e949018f32a56c5a70.jpg"></article>]]></description>
-            <link>https://thegrid.ai/geekbeard/the-growing-internet-of-things-that-can-spy-on-you/index.html</link>
-            <guid isPermaLink="false">906fd7a7-aaf1-4150-8bbd-04da1d4ee332</guid>
-            <pubDate>Thu, 18 Feb 2016 15:10:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
