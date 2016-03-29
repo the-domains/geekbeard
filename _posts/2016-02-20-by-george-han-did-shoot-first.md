@@ -15,9 +15,9 @@ keywords:
   - original
   - cgi
   - version
-description: "A restored HD version of the original Star Wars Episode IV: A New Hope 35mm print has appeared online. While this isn't the first time that attempts have been made to restore Star Wars to its original theatrical version-that's the one without the much-maligned CGI effects and edits of later \"special\" editions-it is the first to have been based entirely on a single 35mm print of the film, rather than cut together from various sources."
-datePublished: '2016-02-22T09:46:20.777Z'
-dateModified: '2016-02-22T09:46:13.363Z'
+description: "If there's still anyone you know who believes the alien thug Greedo fired first in the original (subsequently sanatised) version of the cantina scene of Star Wars Episode IV, point them to this recently surfaced version of the movie."
+datePublished: '2016-03-29T19:49:48.993Z'
+dateModified: '2016-03-29T19:49:45.669Z'
 author:
   - name: Mark Walton
     url: 'http://arstechnica.co.uk/author/mark_walton/'
@@ -52,6 +52,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95e96075-8e2d-4c22-a88b-b1ddb2929f26.jpg)
+
 # By George, Han DID shoot first
 
 If there's still anyone you know who believes the alien thug Greedo fired first in the original (subsequently sanatised) version of the cantina scene of Star Wars Episode IV, point them to this recently surfaced version of the movie.
