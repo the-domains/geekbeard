@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "In a recent \_column I shared my first impressions of Samsung’s gorgeous Galaxy S7 and S7 Edge smartphones following their unveiling at the start of Mobile World Congress (MWC) in Barcelona."
-datePublished: '2016-03-29T20:23:48.067Z'
-dateModified: '2016-03-29T20:23:45.220Z'
+datePublished: '2016-03-29T20:50:34.784Z'
+dateModified: '2016-03-29T20:50:33.199Z'
 title: A world of mobile marvels
 author: []
+sourcePath: _posts/2016-03-29-a-world-of-mobile-marvels.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-a-world-of-mobile-marvels.md
-published: true
 url: a-world-of-mobile-marvels/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93f40003-abed-491e-9b74-794a48862de8.jpg)
+
 # A world of mobile marvels
 
 In a recent  column I shared [my first impressions of Samsung's gorgeous Galaxy S7 and S7 Edge smartphones][0] following their unveiling at the start of Mobile World Congress (MWC) in Barcelona.
